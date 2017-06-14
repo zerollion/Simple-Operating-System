@@ -1,0 +1,10 @@
+#!/bin/bash
+cd ../userprogs
+./gcc2 -o test.out test.c
+./gcc2 -o p1.out p1.c
+./gcc2 -o p2.out p2.c
+./gcc2 -o p3.out p3.c
+./gcc2 -o p4.out p4.c
+./gcc2 -o p5.out p5.c
+./gcc2 -o p6.out p6.c
+cd ../build
